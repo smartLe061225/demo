@@ -1,6 +1,6 @@
 # 目录
 
-* [MP3 播放器](mp3/)
+* [MP3 播放器](https://threetowns.github.io/demo/mp3/)
 
 
 ## 更多资料
